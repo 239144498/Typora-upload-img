@@ -9,7 +9,7 @@
 
 在“C:\Program Files\Typora”路径创建一个“upload.py“文件，
 
-代码在Github https://github.com/239144498/Typora-upload-img，自行下载好代码放到upload.py文件中
+代码在Github https://github.com/239144498/Typora-upload-img  ，自行下载好代码放到upload.py文件中
 
  
 
