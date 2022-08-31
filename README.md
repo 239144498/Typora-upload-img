@@ -14,10 +14,10 @@
  
 
 Typora图像配置
-[1944589-20220831201000641-41619921](http://typora.datastream.tebi.io/1944589-20220831201000641-41619921.png)
+<img src="http://typora.datastream.tebi.io/1944589-20220831201000641-41619921.png" />
  
  上面步骤完成后下次粘贴图片到Typora就会自动上传并替换图床链接
 
 批量上传效果图如下：
-[1944589-20220831200451701-1232490439](http://typora.datastream.tebi.io/1944589-20220831200451701-1232490439.png)
- 
+<img src="http://typora.datastream.tebi.io/1944589-20220831200451701-1232490439.png" />
+
